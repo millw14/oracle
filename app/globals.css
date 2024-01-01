@@ -1,0 +1,55 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 222 47% 11%;
+    --foreground: 210 40% 98%;
+  }
+}
+
+@layer base {
+  body {
+    @apply bg-[#0d1117] text-white;
+  }
+}
+
+/* Solana Wallet Adapter - DEX style */
+.wallet-adapter-button {
+  @apply bg-emerald-500 text-white font-mono text-sm hover:bg-emerald-600 transition-all duration-200 rounded !important;
+  @apply px-6 py-2 !important;
+}
+
+.wallet-adapter-modal-overlay {
+  background-color: rgba(13, 17, 23, 0.9) !important;
+}
+
+.wallet-adapter-modal-container {
+  background-color: #161b22 !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+}
+
+.wallet-adapter-modal-title {
+  color: white !important;
+  font-family: monospace !important;
+}
+
+.wallet-adapter-modal-list {
+  margin: 0 !important;
+}
+
+.wallet-adapter-modal-list-item {
+  background-color: rgba(255, 255, 255, 0.05) !important;
+  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border-radius: 0 !important;
+  @apply font-mono !important;
+}
+
+.wallet-adapter-modal-list-item:hover {
+  background-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.wallet-adapter-modal-list-item button {
+  color: white !important;
+}
