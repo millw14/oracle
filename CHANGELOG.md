@@ -5,3 +5,4 @@
 - 2024-01-05: Add .env.development
 - 2024-01-06: Add pair/[id] route
 - 2024-01-07: Add unregister
+- 2024-01-08: Add of
