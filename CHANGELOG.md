@@ -9,3 +9,4 @@
 - 2024-01-08: Add DEX source labels
 - 2024-01-09: Add container
 - 2024-01-10: Add global
+- 2024-01-11: Add heap
