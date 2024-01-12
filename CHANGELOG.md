@@ -11,3 +11,4 @@
 - 2024-01-10: Add global
 - 2024-01-11: Add heap
 - 2024-01-12: Implement pairs API route
+- 2024-01-12: Fix volume number formatting
