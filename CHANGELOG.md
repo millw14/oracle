@@ -12,3 +12,4 @@
 - 2024-01-11: Add heap
 - 2024-01-12: Implement pairs API route
 - 2024-01-12: Fix volume number formatting
+- 2024-01-13: Implement encoding
