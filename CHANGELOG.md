@@ -13,3 +13,4 @@
 - 2024-01-12: Implement pairs API route
 - 2024-01-12: Fix volume number formatting
 - 2024-01-13: Implement encoding
+- 2024-01-15: Add toLocaleString
