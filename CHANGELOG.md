@@ -15,3 +15,4 @@
 - 2024-01-13: Implement encoding
 - 2024-01-15: Add toLocaleString
 - 2024-01-16: Add object spread
+- 2024-01-18: Add default
