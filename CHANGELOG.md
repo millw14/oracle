@@ -16,3 +16,4 @@
 - 2024-01-15: Add toLocaleString
 - 2024-01-16: Add object spread
 - 2024-01-18: Add default
+- 2024-01-19: Fix loading state
