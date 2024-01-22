@@ -18,3 +18,4 @@
 - 2024-01-18: Add default
 - 2024-01-19: Fix loading state
 - 2024-01-22: Add defaultPrevented
+- 2024-01-22: Implement Camelot DEX
