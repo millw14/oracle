@@ -19,3 +19,4 @@
 - 2024-01-19: Fix loading state
 - 2024-01-22: Add defaultPrevented
 - 2024-01-22: Implement Camelot DEX
+- 2024-01-24: Add replaceAll
