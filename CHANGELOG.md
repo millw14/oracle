@@ -20,3 +20,4 @@
 - 2024-01-22: Add defaultPrevented
 - 2024-01-22: Implement Camelot DEX
 - 2024-01-24: Add replaceAll
+- 2024-01-25: Fix label
