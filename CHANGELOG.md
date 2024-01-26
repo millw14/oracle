@@ -22,3 +22,4 @@
 - 2024-01-24: Add replaceAll
 - 2024-01-25: Fix label
 - 2024-01-25: Add comment
+- 2024-01-26: Implement 2-col stat layout
