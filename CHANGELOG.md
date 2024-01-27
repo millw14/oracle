@@ -25,3 +25,4 @@
 - 2024-01-26: Implement 2-col stat layout
 - 2024-01-26: Add unregister
 - 2024-01-27: Fix state
+- 2024-01-27: Implement wrapper
