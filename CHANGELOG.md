@@ -27,3 +27,4 @@
 - 2024-01-27: Fix state
 - 2024-01-27: Implement wrapper
 - 2024-01-27: Add readonly
+- 2024-01-29: Add self
