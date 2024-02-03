@@ -31,3 +31,4 @@
 - 2024-01-29: Fix call stack
 - 2024-02-01: Add Ethereum chain
 - 2024-02-03: Add format
+- 2024-02-03: Fix structure
