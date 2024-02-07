@@ -34,3 +34,4 @@
 - 2024-02-03: Fix structure
 - 2024-02-05: Add slice for limit
 - 2024-02-05: Add event loop
+- 2024-02-07: Implement html lang
