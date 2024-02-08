@@ -35,3 +35,4 @@
 - 2024-02-05: Add slice for limit
 - 2024-02-05: Add event loop
 - 2024-02-07: Implement html lang
+- 2024-02-08: Fix responsive table layout
