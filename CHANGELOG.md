@@ -37,3 +37,4 @@
 - 2024-02-07: Implement html lang
 - 2024-02-08: Fix responsive table layout
 - 2024-02-09: Add Polygon chain
+- 2024-02-09: Add --foreground variable
