@@ -38,3 +38,4 @@
 - 2024-02-08: Fix responsive table layout
 - 2024-02-09: Add Polygon chain
 - 2024-02-09: Add --foreground variable
+- 2024-02-10: Add mr-0.5 spacing
