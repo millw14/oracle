@@ -40,3 +40,4 @@
 - 2024-02-09: Add --foreground variable
 - 2024-02-10: Add mr-0.5 spacing
 - 2024-02-11: Implement @/ alias
+- 2024-02-12: Add RegExp
