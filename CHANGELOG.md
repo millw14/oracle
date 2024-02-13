@@ -41,3 +41,4 @@
 - 2024-02-10: Add mr-0.5 spacing
 - 2024-02-11: Implement @/ alias
 - 2024-02-12: Add RegExp
+- 2024-02-13: Add auto-fix
