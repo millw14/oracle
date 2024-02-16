@@ -43,3 +43,4 @@
 - 2024-02-12: Add RegExp
 - 2024-02-13: Add auto-fix
 - 2024-02-16: Add join
+- 2024-02-16: Add plop
