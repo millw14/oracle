@@ -42,3 +42,4 @@
 - 2024-02-11: Implement @/ alias
 - 2024-02-12: Add RegExp
 - 2024-02-13: Add auto-fix
+- 2024-02-16: Add join
