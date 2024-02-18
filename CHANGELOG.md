@@ -44,3 +44,4 @@
 - 2024-02-13: Add auto-fix
 - 2024-02-16: Add join
 - 2024-02-16: Add plop
+- 2024-02-18: Add FormData
