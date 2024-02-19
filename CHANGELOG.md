@@ -48,3 +48,4 @@
 - 2024-02-18: Add lf
 - 2024-02-18: Implement gap-3
 - 2024-02-18: Implement utility
+- 2024-02-19: Add trimStart
