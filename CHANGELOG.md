@@ -50,3 +50,4 @@
 - 2024-02-18: Implement utility
 - 2024-02-19: Add trimStart
 - 2024-02-19: Add charCodeAt
+- 2024-02-20: Add on-demand
