@@ -51,3 +51,4 @@
 - 2024-02-19: Add trimStart
 - 2024-02-19: Add charCodeAt
 - 2024-02-20: Add on-demand
+- 2024-02-21: Add mutation
