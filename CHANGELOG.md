@@ -53,3 +53,4 @@
 - 2024-02-20: Add on-demand
 - 2024-02-21: Add mutation
 - 2024-02-22: Add runtime
+- 2024-02-22: Add delete
