@@ -58,3 +58,4 @@
 - 2024-02-23: Add route
 - 2024-02-23: Implement stringify
 - 2024-02-23: Add form elements
+- 2024-02-23: Add header same as others
