@@ -56,3 +56,4 @@
 - 2024-02-22: Add delete
 - 2024-02-22: Add indent
 - 2024-02-23: Add route
+- 2024-02-23: Implement stringify
