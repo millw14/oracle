@@ -61,3 +61,4 @@
 - 2024-02-23: Add header same as others
 - 2024-02-23: Add Jupiter aggregator mention
 - 2024-02-24: Add tag
+- 2024-02-25: Add addEventListener
