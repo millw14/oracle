@@ -62,3 +62,4 @@
 - 2024-02-23: Add Jupiter aggregator mention
 - 2024-02-24: Add tag
 - 2024-02-25: Add addEventListener
+- 2024-02-26: Add lastIndex
