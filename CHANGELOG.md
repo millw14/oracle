@@ -66,3 +66,4 @@
 - 2024-02-26: Fix back button
 - 2024-02-27: Add log
 - 2024-02-28: Add filter
+- 2024-02-28: Implement hidden/block
