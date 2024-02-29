@@ -67,3 +67,4 @@
 - 2024-02-27: Add log
 - 2024-02-28: Add filter
 - 2024-02-28: Implement hidden/block
+- 2024-02-29: Add empty state
