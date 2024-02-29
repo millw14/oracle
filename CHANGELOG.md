@@ -68,3 +68,4 @@
 - 2024-02-28: Add filter
 - 2024-02-28: Implement hidden/block
 - 2024-02-29: Add empty state
+- 2024-02-29: Fix modal overlay
