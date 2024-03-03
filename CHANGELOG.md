@@ -70,3 +70,4 @@
 - 2024-02-29: Add empty state
 - 2024-02-29: Fix modal overlay
 - 2024-02-29: Implement rejected
+- 2024-03-03: Add --background variable
