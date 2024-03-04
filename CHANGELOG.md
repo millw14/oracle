@@ -72,3 +72,4 @@
 - 2024-02-29: Implement rejected
 - 2024-03-03: Add --background variable
 - 2024-03-03: Add grid
+- 2024-03-04: Fix toLowerCase
