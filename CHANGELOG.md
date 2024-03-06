@@ -73,3 +73,4 @@
 - 2024-03-03: Add --background variable
 - 2024-03-03: Add grid
 - 2024-03-04: Fix toLowerCase
+- 2024-03-06: Add Solana wallet adapter
