@@ -80,3 +80,4 @@
 - 2024-03-09: Add portal
 - 2024-03-10: Add from
 - 2024-03-10: Implement useMemo
+- 2024-03-10: Add usePathname
