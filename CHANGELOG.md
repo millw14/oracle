@@ -82,3 +82,4 @@
 - 2024-03-10: Implement useMemo
 - 2024-03-10: Add usePathname
 - 2024-03-10: Fix text-2xl for title
+- 2024-03-11: Add .env.development
