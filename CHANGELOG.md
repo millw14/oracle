@@ -84,3 +84,4 @@
 - 2024-03-10: Fix text-2xl for title
 - 2024-03-11: Add .env.development
 - 2024-03-11: Add token symbol display
+- 2024-03-12: Add useParams
