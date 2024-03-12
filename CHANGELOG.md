@@ -85,3 +85,4 @@
 - 2024-03-11: Add .env.development
 - 2024-03-11: Add token symbol display
 - 2024-03-12: Add useParams
+- 2024-03-12: Add lastIndex
