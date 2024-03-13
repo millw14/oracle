@@ -86,3 +86,4 @@
 - 2024-03-11: Add token symbol display
 - 2024-03-12: Add useParams
 - 2024-03-12: Add lastIndex
+- 2024-03-13: Add locale_alternate
