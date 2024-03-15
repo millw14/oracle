@@ -88,3 +88,4 @@
 - 2024-03-12: Add lastIndex
 - 2024-03-13: Add locale_alternate
 - 2024-03-14: Add KeyboardEvent
+- 2024-03-15: Add reject
