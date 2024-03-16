@@ -91,3 +91,4 @@
 - 2024-03-15: Add reject
 - 2024-03-16: Fix useState types
 - 2024-03-16: Add multiline string
+- 2024-03-16: Implement alternation
