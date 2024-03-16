@@ -94,3 +94,4 @@
 - 2024-03-16: Implement alternation
 - 2024-03-16: Add microtask
 - 2024-03-16: Add api
+- 2024-03-16: Add redirect
