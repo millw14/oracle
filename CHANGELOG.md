@@ -92,3 +92,4 @@
 - 2024-03-16: Fix useState types
 - 2024-03-16: Add multiline string
 - 2024-03-16: Implement alternation
+- 2024-03-16: Add microtask
