@@ -96,3 +96,4 @@
 - 2024-03-16: Add api
 - 2024-03-16: Add redirect
 - 2024-03-18: Add generateMetadata
+- 2024-03-18: Add indexOf
