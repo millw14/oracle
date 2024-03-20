@@ -99,3 +99,4 @@
 - 2024-03-18: Add indexOf
 - 2024-03-19: Add Blob
 - 2024-03-20: Add ConnectionProvider
+- 2024-03-20: Implement random pair generator
