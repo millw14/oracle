@@ -102,3 +102,4 @@
 - 2024-03-20: Implement random pair generator
 - 2024-03-21: Add Omit
 - 2024-03-21: Add fallback pair data
+- 2024-03-21: Add layout
