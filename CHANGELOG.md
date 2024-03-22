@@ -104,3 +104,4 @@
 - 2024-03-21: Add fallback pair data
 - 2024-03-21: Add layout
 - 2024-03-22: Implement log
+- 2024-03-22: Add block
