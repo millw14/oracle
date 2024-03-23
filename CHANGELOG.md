@@ -107,3 +107,4 @@
 - 2024-03-22: Add block
 - 2024-03-23: Add new
 - 2024-03-23: Add getOwnPropertyDescriptor
+- 2024-03-23: Add max-w-2xl
