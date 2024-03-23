@@ -106,3 +106,4 @@
 - 2024-03-22: Implement log
 - 2024-03-22: Add block
 - 2024-03-23: Add new
+- 2024-03-23: Add getOwnPropertyDescriptor
