@@ -110,3 +110,4 @@
 - 2024-03-23: Add max-w-2xl
 - 2024-03-23: Add title
 - 2024-03-24: Add Image
+- 2024-03-24: Add waiting
