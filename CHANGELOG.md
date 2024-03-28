@@ -117,3 +117,4 @@
 - 2024-03-27: Add unshift
 - 2024-03-27: Add mutation
 - 2024-03-27: Add whitespace
+- 2024-03-28: Add matchAll
