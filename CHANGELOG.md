@@ -120,3 +120,4 @@
 - 2024-03-28: Add matchAll
 - 2024-03-28: Implement width
 - 2024-03-30: Add Request
+- 2024-03-30: Add interval
