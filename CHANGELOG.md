@@ -122,3 +122,4 @@
 - 2024-03-30: Add Request
 - 2024-03-30: Add interval
 - 2024-03-30: Add color
+- 2024-03-30: Add abort
