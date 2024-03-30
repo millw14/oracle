@@ -121,3 +121,4 @@
 - 2024-03-28: Implement width
 - 2024-03-30: Add Request
 - 2024-03-30: Add interval
+- 2024-03-30: Add color
