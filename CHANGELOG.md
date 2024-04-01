@@ -123,3 +123,4 @@
 - 2024-03-30: Add interval
 - 2024-03-30: Add color
 - 2024-03-30: Add abort
+- 2024-04-01: Add default exports
