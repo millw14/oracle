@@ -127,3 +127,4 @@
 - 2024-04-02: Add subject
 - 2024-04-02: Add state
 - 2024-04-02: Add UIEvent
+- 2024-04-02: Fix tr hover
