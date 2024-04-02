@@ -126,3 +126,4 @@
 - 2024-04-01: Add default exports
 - 2024-04-02: Add subject
 - 2024-04-02: Add state
+- 2024-04-02: Add UIEvent
