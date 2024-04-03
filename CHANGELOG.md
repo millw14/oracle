@@ -129,3 +129,4 @@
 - 2024-04-02: Add UIEvent
 - 2024-04-02: Fix tr hover
 - 2024-04-03: Add search
+- 2024-04-03: Add Script
