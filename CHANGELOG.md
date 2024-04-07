@@ -132,3 +132,4 @@
 - 2024-04-03: Add Script
 - 2024-04-05: Add log
 - 2024-04-05: Update package.json name
+- 2024-04-07: Add meta
