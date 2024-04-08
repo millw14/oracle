@@ -134,3 +134,4 @@
 - 2024-04-05: Update package.json name
 - 2024-04-07: Add meta
 - 2024-04-08: Update tailwind config
+- 2024-04-08: Add block
