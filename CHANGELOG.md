@@ -141,3 +141,4 @@
 - 2024-04-11: Add section
 - 2024-04-11: Add CHAINS constant
 - 2024-04-11: Add hreflang
+- 2024-04-11: Add view all pairs link
