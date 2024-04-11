@@ -140,3 +140,4 @@
 - 2024-04-09: Add percentage
 - 2024-04-11: Add section
 - 2024-04-11: Add CHAINS constant
+- 2024-04-11: Add hreflang
