@@ -143,3 +143,4 @@
 - 2024-04-11: Add hreflang
 - 2024-04-11: Add view all pairs link
 - 2024-04-12: Add entries
+- 2024-04-13: Add outside
