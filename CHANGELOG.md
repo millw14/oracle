@@ -145,3 +145,4 @@
 - 2024-04-12: Add entries
 - 2024-04-13: Add outside
 - 2024-04-14: Add setLoading
+- 2024-04-14: Add hierarchy
