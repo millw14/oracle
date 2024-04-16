@@ -146,3 +146,4 @@
 - 2024-04-13: Add outside
 - 2024-04-14: Add setLoading
 - 2024-04-14: Add hierarchy
+- 2024-04-16: Add valueOf
