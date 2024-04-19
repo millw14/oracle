@@ -151,3 +151,4 @@
 - 2024-04-19: Add pattern
 - 2024-04-19: Add trimStart
 - 2024-04-19: Add chart placeholder div
+- 2024-04-19: Add isr
