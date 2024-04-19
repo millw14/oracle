@@ -147,3 +147,4 @@
 - 2024-04-14: Add setLoading
 - 2024-04-14: Add hierarchy
 - 2024-04-16: Add valueOf
+- 2024-04-19: Add useRouter
