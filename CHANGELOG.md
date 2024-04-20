@@ -153,3 +153,4 @@
 - 2024-04-19: Add chart placeholder div
 - 2024-04-19: Add isr
 - 2024-04-20: Fix pair ID routing
+- 2024-04-20: Add getRegistrations
