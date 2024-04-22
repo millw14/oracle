@@ -155,3 +155,4 @@
 - 2024-04-20: Fix pair ID routing
 - 2024-04-20: Add getRegistrations
 - 2024-04-20: Add console
+- 2024-04-22: Add installed
