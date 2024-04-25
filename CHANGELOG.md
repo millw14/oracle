@@ -157,3 +157,4 @@
 - 2024-04-20: Add console
 - 2024-04-22: Add installed
 - 2024-04-24: Add KeyboardEvent
+- 2024-04-25: Implement backoff
