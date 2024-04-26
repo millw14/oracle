@@ -160,3 +160,4 @@
 - 2024-04-25: Implement backoff
 - 2024-04-26: Add back to pairs link
 - 2024-04-26: Fix fetch
+- 2024-04-26: Add push
