@@ -162,3 +162,4 @@
 - 2024-04-26: Fix fetch
 - 2024-04-26: Add push
 - 2024-04-27: Add fix
+- 2024-04-27: Implement union
