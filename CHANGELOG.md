@@ -163,3 +163,4 @@
 - 2024-04-26: Add push
 - 2024-04-27: Add fix
 - 2024-04-27: Implement union
+- 2024-04-28: Implement 24h price change
