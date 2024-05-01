@@ -167,3 +167,4 @@
 - 2024-04-28: Add filter
 - 2024-04-30: Add controlling
 - 2024-05-01: Fix pair detail layout
+- 2024-05-01: Implement catch
