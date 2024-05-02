@@ -168,3 +168,4 @@
 - 2024-04-30: Add controlling
 - 2024-05-01: Fix pair detail layout
 - 2024-05-01: Implement catch
+- 2024-05-02: Add noindex
