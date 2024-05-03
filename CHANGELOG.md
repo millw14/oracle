@@ -170,3 +170,4 @@
 - 2024-05-01: Implement catch
 - 2024-05-02: Add noindex
 - 2024-05-02: Add keys
+- 2024-05-03: Implement auto
