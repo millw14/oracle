@@ -171,3 +171,4 @@
 - 2024-05-02: Add noindex
 - 2024-05-02: Add keys
 - 2024-05-03: Implement auto
+- 2024-05-03: Fix parse
