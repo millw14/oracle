@@ -174,3 +174,4 @@
 - 2024-05-03: Fix parse
 - 2024-05-05: Add import order
 - 2024-05-06: Add start
+- 2024-05-07: Fix click
