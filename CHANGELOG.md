@@ -177,3 +177,4 @@
 - 2024-05-07: Fix click
 - 2024-05-07: Add entries
 - 2024-05-08: Add imperative
+- 2024-05-09: Implement fallback data
