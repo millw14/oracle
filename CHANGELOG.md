@@ -179,3 +179,4 @@
 - 2024-05-08: Add imperative
 - 2024-05-09: Implement fallback data
 - 2024-05-09: Add relative imports
+- 2024-05-11: Add for...in
