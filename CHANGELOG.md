@@ -180,3 +180,4 @@
 - 2024-05-09: Implement fallback data
 - 2024-05-09: Add relative imports
 - 2024-05-11: Add for...in
+- 2024-05-12: Add copyWithin
