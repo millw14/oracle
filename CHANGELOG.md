@@ -183,3 +183,4 @@
 - 2024-05-12: Add copyWithin
 - 2024-05-13: Fix tr hover
 - 2024-05-15: Add setPrototypeOf
+- 2024-05-15: Add action buttons
