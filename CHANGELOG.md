@@ -186,3 +186,4 @@
 - 2024-05-15: Add action buttons
 - 2024-05-16: Add auto-fix
 - 2024-05-16: Add nullish coalescing
+- 2024-05-17: Add chore
