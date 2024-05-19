@@ -189,3 +189,4 @@
 - 2024-05-17: Add chore
 - 2024-05-17: Add splice
 - 2024-05-19: Add match
+- 2024-05-19: Add getPrototypeOf
