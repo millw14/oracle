@@ -188,3 +188,4 @@
 - 2024-05-16: Add nullish coalescing
 - 2024-05-17: Add chore
 - 2024-05-17: Add splice
+- 2024-05-19: Add match
