@@ -190,3 +190,4 @@
 - 2024-05-17: Add splice
 - 2024-05-19: Add match
 - 2024-05-19: Add getPrototypeOf
+- 2024-05-20: Add invalidation
