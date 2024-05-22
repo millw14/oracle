@@ -192,3 +192,4 @@
 - 2024-05-19: Add getPrototypeOf
 - 2024-05-20: Add invalidation
 - 2024-05-21: Add redirect
+- 2024-05-22: Fix Filter button
