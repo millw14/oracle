@@ -195,3 +195,4 @@
 - 2024-05-22: Fix Filter button
 - 2024-05-22: Add delete
 - 2024-05-23: Add Sparkles icon
+- 2024-05-23: Add Base chain support
