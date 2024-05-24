@@ -197,3 +197,4 @@
 - 2024-05-23: Add Sparkles icon
 - 2024-05-23: Add Base chain support
 - 2024-05-23: Fix pair detail fetch
+- 2024-05-24: Add present
