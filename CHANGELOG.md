@@ -199,3 +199,4 @@
 - 2024-05-23: Fix pair detail fetch
 - 2024-05-24: Add present
 - 2024-05-27: Add border-t border-white/5
+- 2024-05-28: Add reset
