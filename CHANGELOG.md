@@ -201,3 +201,4 @@
 - 2024-05-27: Add border-t border-white/5
 - 2024-05-28: Add reset
 - 2024-05-29: Add activating
+- 2024-05-29: Fix bundle
