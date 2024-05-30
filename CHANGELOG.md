@@ -202,3 +202,4 @@
 - 2024-05-28: Add reset
 - 2024-05-29: Add activating
 - 2024-05-29: Fix bundle
+- 2024-05-30: Fix label
