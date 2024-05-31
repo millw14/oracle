@@ -208,3 +208,4 @@
 - 2024-05-31: Add generateStaticParams
 - 2024-05-31: Update .gitignore if needed
 - 2024-05-31: Implement example
+- 2024-05-31: Add cherry-pick
