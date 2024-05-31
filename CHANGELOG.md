@@ -205,3 +205,4 @@
 - 2024-05-30: Fix label
 - 2024-05-30: Add action
 - 2024-05-31: Add polling
+- 2024-05-31: Add generateStaticParams
