@@ -212,3 +212,4 @@
 - 2024-06-03: Add revert
 - 2024-06-05: Add lf
 - 2024-06-06: Add apple touch icon
+- 2024-06-07: Add DexRadar description
