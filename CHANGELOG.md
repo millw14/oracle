@@ -214,3 +214,4 @@
 - 2024-06-06: Add apple touch icon
 - 2024-06-07: Add DexRadar description
 - 2024-06-08: Implement apply
+- 2024-06-08: Add docs structure
