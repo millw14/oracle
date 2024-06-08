@@ -213,3 +213,4 @@
 - 2024-06-05: Add lf
 - 2024-06-06: Add apple touch icon
 - 2024-06-07: Add DexRadar description
+- 2024-06-08: Implement apply
