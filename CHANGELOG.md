@@ -215,3 +215,4 @@
 - 2024-06-07: Add DexRadar description
 - 2024-06-08: Implement apply
 - 2024-06-08: Add docs structure
+- 2024-06-09: Add join
