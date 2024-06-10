@@ -217,3 +217,4 @@
 - 2024-06-08: Add docs structure
 - 2024-06-09: Add join
 - 2024-06-10: Add fetcher
+- 2024-06-10: Add .env.local
