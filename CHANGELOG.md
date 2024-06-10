@@ -219,3 +219,4 @@
 - 2024-06-10: Add fetcher
 - 2024-06-10: Add .env.local
 - 2024-06-10: Fix WalletMultiButton styling
+- 2024-06-10: Add conditional
