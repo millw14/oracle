@@ -222,3 +222,4 @@
 - 2024-06-10: Add conditional
 - 2024-06-11: Add imperative
 - 2024-06-11: Add tabs
+- 2024-06-11: Add getPrototypeOf
