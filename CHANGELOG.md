@@ -223,3 +223,4 @@
 - 2024-06-11: Add imperative
 - 2024-06-11: Add tabs
 - 2024-06-11: Add getPrototypeOf
+- 2024-06-12: Add sign
