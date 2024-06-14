@@ -225,3 +225,4 @@
 - 2024-06-11: Add getPrototypeOf
 - 2024-06-12: Add sign
 - 2024-06-13: Add whitespace
+- 2024-06-14: Add token symbol display
