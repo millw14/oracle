@@ -226,3 +226,4 @@
 - 2024-06-12: Add sign
 - 2024-06-13: Add whitespace
 - 2024-06-14: Add token symbol display
+- 2024-06-15: Add localeCompare
