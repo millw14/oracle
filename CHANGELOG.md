@@ -228,3 +228,4 @@
 - 2024-06-14: Add token symbol display
 - 2024-06-15: Add localeCompare
 - 2024-06-15: Implement useMemo
+- 2024-06-16: Fix placeholder opacity
