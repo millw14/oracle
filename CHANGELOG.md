@@ -233,3 +233,4 @@
 - 2024-06-16: Add cancelable
 - 2024-06-16: Add default exports
 - 2024-06-16: Implement refetch
+- 2024-06-17: Add min-h-screen
