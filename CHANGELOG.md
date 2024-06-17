@@ -236,3 +236,4 @@
 - 2024-06-17: Add min-h-screen
 - 2024-06-17: Fix debug
 - 2024-06-17: Add seal
+- 2024-06-17: Add signal
