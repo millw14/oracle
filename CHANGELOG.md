@@ -239,3 +239,4 @@
 - 2024-06-17: Add signal
 - 2024-06-18: Fix bg-white/5
 - 2024-06-18: Add DragEvent
+- 2024-06-18: Add padStart
