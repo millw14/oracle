@@ -237,3 +237,4 @@
 - 2024-06-17: Fix debug
 - 2024-06-17: Add seal
 - 2024-06-17: Add signal
+- 2024-06-18: Fix bg-white/5
