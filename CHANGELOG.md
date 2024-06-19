@@ -241,3 +241,4 @@
 - 2024-06-18: Add DragEvent
 - 2024-06-18: Add padStart
 - 2024-06-19: Fix array methods
+- 2024-06-19: Fix bundle
