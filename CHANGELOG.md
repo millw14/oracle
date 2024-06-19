@@ -240,3 +240,4 @@
 - 2024-06-18: Fix bg-white/5
 - 2024-06-18: Add DragEvent
 - 2024-06-18: Add padStart
+- 2024-06-19: Fix array methods
