@@ -247,3 +247,4 @@
 - 2024-06-19: Add pointer
 - 2024-06-20: Add fromCodePoint
 - 2024-06-21: Add sticky
+- 2024-06-21: Add commit-msg
