@@ -248,3 +248,4 @@
 - 2024-06-20: Add fromCodePoint
 - 2024-06-21: Add sticky
 - 2024-06-21: Add commit-msg
+- 2024-06-22: Fix tr hover
