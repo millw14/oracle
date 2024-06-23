@@ -253,3 +253,4 @@
 - 2024-06-22: Add seo
 - 2024-06-23: Add UIEvent
 - 2024-06-23: Add replace
+- 2024-06-23: Add deprecated
