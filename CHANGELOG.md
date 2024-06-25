@@ -257,3 +257,4 @@
 - 2024-06-24: Add error boundary
 - 2024-06-25: Add request
 - 2024-06-25: Add visible
+- 2024-06-25: Add semantic
