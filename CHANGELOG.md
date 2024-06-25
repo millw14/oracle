@@ -259,3 +259,4 @@
 - 2024-06-25: Add visible
 - 2024-06-25: Add semantic
 - 2024-06-25: Add ignoreCase
+- 2024-06-25: Add upstream
