@@ -261,3 +261,4 @@
 - 2024-06-25: Add ignoreCase
 - 2024-06-25: Add upstream
 - 2024-06-26: Add json-ld
+- 2024-06-26: Add return
