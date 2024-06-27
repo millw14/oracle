@@ -265,3 +265,4 @@
 - 2024-06-27: Fix call stack
 - 2024-06-27: Fix button types
 - 2024-06-27: Add FocusEvent
+- 2024-06-27: Add dead zone
