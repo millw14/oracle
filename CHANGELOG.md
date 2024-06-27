@@ -264,3 +264,4 @@
 - 2024-06-26: Add return
 - 2024-06-27: Fix call stack
 - 2024-06-27: Fix button types
+- 2024-06-27: Add FocusEvent
