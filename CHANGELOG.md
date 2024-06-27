@@ -263,3 +263,4 @@
 - 2024-06-26: Add json-ld
 - 2024-06-26: Add return
 - 2024-06-27: Fix call stack
+- 2024-06-27: Fix button types
