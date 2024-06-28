@@ -266,3 +266,4 @@
 - 2024-06-27: Fix button types
 - 2024-06-27: Add FocusEvent
 - 2024-06-27: Add dead zone
+- 2024-06-28: Add dispatchEvent
