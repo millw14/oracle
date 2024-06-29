@@ -269,3 +269,4 @@
 - 2024-06-28: Add dispatchEvent
 - 2024-06-29: Add yeoman
 - 2024-06-29: Add text-center
+- 2024-06-29: Add hreflang
