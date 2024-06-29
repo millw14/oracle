@@ -270,3 +270,4 @@
 - 2024-06-29: Add yeoman
 - 2024-06-29: Add text-center
 - 2024-06-29: Add hreflang
+- 2024-06-29: Add semantic
