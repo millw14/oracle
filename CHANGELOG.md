@@ -271,3 +271,4 @@
 - 2024-06-29: Add text-center
 - 2024-06-29: Add hreflang
 - 2024-06-29: Add semantic
+- 2024-07-01: Fix WalletModalProvider
