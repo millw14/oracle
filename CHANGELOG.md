@@ -273,3 +273,4 @@
 - 2024-06-29: Add semantic
 - 2024-07-01: Fix WalletModalProvider
 - 2024-07-03: Add search input
+- 2024-07-03: Add summary
