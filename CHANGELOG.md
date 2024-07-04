@@ -275,3 +275,4 @@
 - 2024-07-03: Add search input
 - 2024-07-03: Add summary
 - 2024-07-04: Add shift
+- 2024-07-04: Add preventDefault
