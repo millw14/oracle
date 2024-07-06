@@ -276,3 +276,4 @@
 - 2024-07-03: Add summary
 - 2024-07-04: Add shift
 - 2024-07-04: Add preventDefault
+- 2024-07-06: Add error boundary
