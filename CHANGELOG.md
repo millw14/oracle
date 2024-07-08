@@ -281,3 +281,4 @@
 - 2024-07-07: Implement Search icon
 - 2024-07-08: Implement justify-center
 - 2024-07-08: Add library
+- 2024-07-08: Implement colSpan for loading
