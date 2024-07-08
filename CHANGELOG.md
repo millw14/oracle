@@ -280,3 +280,4 @@
 - 2024-07-07: Add suspense
 - 2024-07-07: Implement Search icon
 - 2024-07-08: Implement justify-center
+- 2024-07-08: Add library
