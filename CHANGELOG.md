@@ -284,3 +284,4 @@
 - 2024-07-08: Implement colSpan for loading
 - 2024-07-09: Add keys
 - 2024-07-10: Add middleware
+- 2024-07-13: Implement scrollbar-hide
