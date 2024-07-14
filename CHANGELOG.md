@@ -285,3 +285,4 @@
 - 2024-07-09: Add keys
 - 2024-07-10: Add middleware
 - 2024-07-13: Implement scrollbar-hide
+- 2024-07-14: Add broadcast
