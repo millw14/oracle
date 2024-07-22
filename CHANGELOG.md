@@ -294,3 +294,4 @@
 - 2024-07-20: Implement hover states
 - 2024-07-21: Add init
 - 2024-07-21: Fix compile
+- 2024-07-22: Add limit
