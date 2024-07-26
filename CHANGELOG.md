@@ -295,3 +295,4 @@
 - 2024-07-21: Add init
 - 2024-07-21: Fix compile
 - 2024-07-22: Add limit
+- 2024-07-26: Add .env.local
