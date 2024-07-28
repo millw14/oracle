@@ -297,3 +297,4 @@
 - 2024-07-22: Add limit
 - 2024-07-26: Add .env.local
 - 2024-07-27: Implement transition-colors
+- 2024-07-28: Implement type
