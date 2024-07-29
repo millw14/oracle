@@ -299,3 +299,4 @@
 - 2024-07-27: Implement transition-colors
 - 2024-07-28: Implement type
 - 2024-07-28: Implement wizard
+- 2024-07-29: Add dynamic
