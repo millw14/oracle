@@ -301,3 +301,4 @@
 - 2024-07-28: Implement wizard
 - 2024-07-29: Add dynamic
 - 2024-07-29: Add participle
+- 2024-07-31: Fix children prop
