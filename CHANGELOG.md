@@ -302,3 +302,4 @@
 - 2024-07-29: Add dynamic
 - 2024-07-29: Add participle
 - 2024-07-31: Fix children prop
+- 2024-08-02: Add body
