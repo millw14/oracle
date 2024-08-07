@@ -306,3 +306,4 @@
 - 2024-08-06: Add redirect
 - 2024-08-06: Add fill
 - 2024-08-07: Add response
+- 2024-08-07: Fix min-width
