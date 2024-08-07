@@ -305,3 +305,4 @@
 - 2024-08-02: Add body
 - 2024-08-06: Add redirect
 - 2024-08-06: Add fill
+- 2024-08-07: Add response
