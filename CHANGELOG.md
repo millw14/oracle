@@ -310,3 +310,4 @@
 - 2024-08-08: Add Solana wallet adapter
 - 2024-08-09: Add commitizen
 - 2024-08-10: Add error
+- 2024-08-10: Add NONE
