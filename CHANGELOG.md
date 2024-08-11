@@ -313,3 +313,4 @@
 - 2024-08-10: Add NONE
 - 2024-08-11: Add match
 - 2024-08-11: Fix wrap
+- 2024-08-11: Update package.json name
