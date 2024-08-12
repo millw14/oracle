@@ -314,3 +314,4 @@
 - 2024-08-11: Add match
 - 2024-08-11: Fix wrap
 - 2024-08-11: Update package.json name
+- 2024-08-12: Add chore
