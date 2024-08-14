@@ -317,3 +317,4 @@
 - 2024-08-12: Add chore
 - 2024-08-14: Add trending pairs section
 - 2024-08-14: Add tense
+- 2024-08-14: Implement token search
