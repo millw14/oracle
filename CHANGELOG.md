@@ -316,3 +316,4 @@
 - 2024-08-11: Update package.json name
 - 2024-08-12: Add chore
 - 2024-08-14: Add trending pairs section
+- 2024-08-14: Add tense
