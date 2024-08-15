@@ -319,3 +319,4 @@
 - 2024-08-14: Add tense
 - 2024-08-14: Implement token search
 - 2024-08-15: Add toLocaleString
+- 2024-08-15: Fix ellipsis
