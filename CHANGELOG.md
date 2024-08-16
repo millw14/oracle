@@ -321,3 +321,4 @@
 - 2024-08-15: Add toLocaleString
 - 2024-08-15: Fix ellipsis
 - 2024-08-15: Add installing
+- 2024-08-16: Fix overlay
