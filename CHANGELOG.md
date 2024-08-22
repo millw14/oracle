@@ -330,3 +330,4 @@
 - 2024-08-20: Add pre-push
 - 2024-08-21: Add NOTE
 - 2024-08-21: Add backdrop blur
+- 2024-08-22: Add pair/[id] route
