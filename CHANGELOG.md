@@ -335,3 +335,4 @@
 - 2024-08-24: Add FocusEvent
 - 2024-08-26: Implement rejected
 - 2024-08-26: Add mobile
+- 2024-08-26: Add typescript deps
