@@ -333,3 +333,4 @@
 - 2024-08-22: Add pair/[id] route
 - 2024-08-22: Add 100+ DEXs badge
 - 2024-08-24: Add FocusEvent
+- 2024-08-26: Implement rejected
