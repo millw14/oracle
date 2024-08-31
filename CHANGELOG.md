@@ -339,3 +339,4 @@
 - 2024-08-26: Implement nowrap
 - 2024-08-30: Add thead/tbody
 - 2024-08-30: Add WheelEvent
+- 2024-08-31: Add text-center
