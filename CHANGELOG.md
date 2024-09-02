@@ -340,3 +340,4 @@
 - 2024-08-30: Add thead/tbody
 - 2024-08-30: Add WheelEvent
 - 2024-08-31: Add text-center
+- 2024-09-02: Add lg: variants
