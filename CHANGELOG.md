@@ -342,3 +342,4 @@
 - 2024-08-31: Add text-center
 - 2024-09-02: Add lg: variants
 - 2024-09-05: Add framework
+- 2024-09-05: Add 72 chars
