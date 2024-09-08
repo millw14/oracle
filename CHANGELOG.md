@@ -347,3 +347,4 @@
 - 2024-09-06: Add data
 - 2024-09-07: Add activated
 - 2024-09-07: Add manifest
+- 2024-09-08: Add redirect
