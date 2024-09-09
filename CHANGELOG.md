@@ -350,3 +350,4 @@
 - 2024-09-08: Add redirect
 - 2024-09-08: Add url
 - 2024-09-09: Add getRegistrations
+- 2024-09-09: Add memo
