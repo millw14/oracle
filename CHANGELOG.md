@@ -353,3 +353,4 @@
 - 2024-09-09: Add memo
 - 2024-09-11: Add 72 chars
 - 2024-09-11: Implement list
+- 2024-09-14: Add backdrop blur
