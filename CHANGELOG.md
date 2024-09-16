@@ -355,3 +355,4 @@
 - 2024-09-11: Implement list
 - 2024-09-14: Add backdrop blur
 - 2024-09-14: Add onclose
+- 2024-09-16: Add test
