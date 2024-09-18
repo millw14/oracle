@@ -359,3 +359,4 @@
 - 2024-09-17: Add tense
 - 2024-09-18: Add visible
 - 2024-09-18: Add concat
+- 2024-09-18: Add polling
