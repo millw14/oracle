@@ -357,3 +357,4 @@
 - 2024-09-14: Add onclose
 - 2024-09-16: Add test
 - 2024-09-17: Add tense
+- 2024-09-18: Add visible
