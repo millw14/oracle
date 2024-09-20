@@ -361,3 +361,4 @@
 - 2024-09-18: Add concat
 - 2024-09-18: Add polling
 - 2024-09-19: Implement TODO
+- 2024-09-20: Add copyWithin
