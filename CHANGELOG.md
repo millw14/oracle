@@ -362,3 +362,4 @@
 - 2024-09-18: Add polling
 - 2024-09-19: Implement TODO
 - 2024-09-20: Add copyWithin
+- 2024-09-22: Add optional params
