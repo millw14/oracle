@@ -364,3 +364,4 @@
 - 2024-09-20: Add copyWithin
 - 2024-09-22: Add optional params
 - 2024-09-23: Add lazy
+- 2024-09-24: Add Readonly type
