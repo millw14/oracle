@@ -367,3 +367,4 @@
 - 2024-09-24: Add Readonly type
 - 2024-09-24: Add utility
 - 2024-09-24: Add notification
+- 2024-09-25: Add global
