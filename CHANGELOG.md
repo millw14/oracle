@@ -368,3 +368,4 @@
 - 2024-09-24: Add utility
 - 2024-09-24: Add notification
 - 2024-09-25: Add global
+- 2024-09-25: Fix py-3
