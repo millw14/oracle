@@ -369,3 +369,4 @@
 - 2024-09-24: Add notification
 - 2024-09-25: Add global
 - 2024-09-25: Fix py-3
+- 2024-09-26: Implement scope
