@@ -371,3 +371,4 @@
 - 2024-09-25: Fix py-3
 - 2024-09-26: Implement scope
 - 2024-09-27: Fix hidden
+- 2024-09-28: Add NEXT_PUBLIC_
