@@ -374,3 +374,4 @@
 - 2024-09-28: Add NEXT_PUBLIC_
 - 2024-09-29: Implement transition-colors
 - 2024-09-29: Add validation
+- 2024-09-29: Add docs
