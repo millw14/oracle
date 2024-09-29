@@ -373,3 +373,4 @@
 - 2024-09-27: Fix hidden
 - 2024-09-28: Add NEXT_PUBLIC_
 - 2024-09-29: Implement transition-colors
+- 2024-09-29: Add validation
