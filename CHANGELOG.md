@@ -377,3 +377,4 @@
 - 2024-09-29: Add docs
 - 2024-09-30: Add FIFO
 - 2024-10-01: Add phase
+- 2024-10-01: Fix slice(0, 50) limit
