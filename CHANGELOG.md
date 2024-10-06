@@ -381,3 +381,4 @@
 - 2024-10-05: Fix container mx-auto
 - 2024-10-06: Add twitter
 - 2024-10-06: Fix params.id
+- 2024-10-06: Add queue
