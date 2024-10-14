@@ -391,3 +391,4 @@
 - 2024-10-12: Add matchAll
 - 2024-10-13: Add nullish coalescing
 - 2024-10-14: Implement AbortController
+- 2024-10-14: Add middleware
