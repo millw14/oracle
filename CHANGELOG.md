@@ -393,3 +393,4 @@
 - 2024-10-14: Implement AbortController
 - 2024-10-14: Add middleware
 - 2024-10-15: Add all
+- 2024-10-16: Add block
