@@ -395,3 +395,4 @@
 - 2024-10-15: Add all
 - 2024-10-16: Add block
 - 2024-10-16: Implement mx-auto
+- 2024-10-16: Add init
