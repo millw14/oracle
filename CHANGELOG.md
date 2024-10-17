@@ -396,3 +396,4 @@
 - 2024-10-16: Add block
 - 2024-10-16: Implement mx-auto
 - 2024-10-16: Add init
+- 2024-10-17: Add verify-tag
