@@ -398,3 +398,4 @@
 - 2024-10-16: Add init
 - 2024-10-17: Add verify-tag
 - 2024-10-17: Fix loading state
+- 2024-10-17: Add ClipboardEvent
