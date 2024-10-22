@@ -401,3 +401,4 @@
 - 2024-10-17: Add ClipboardEvent
 - 2024-10-19: Add CAPTURING
 - 2024-10-19: Add resolve
+- 2024-10-22: Add process.env
