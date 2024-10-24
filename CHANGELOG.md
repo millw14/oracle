@@ -405,3 +405,4 @@
 - 2024-10-23: Add publish
 - 2024-10-24: Add emerald-500 theme
 - 2024-10-24: Add shift
+- 2024-10-24: Add generateViewport
