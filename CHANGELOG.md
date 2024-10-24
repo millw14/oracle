@@ -403,3 +403,4 @@
 - 2024-10-19: Add resolve
 - 2024-10-22: Add process.env
 - 2024-10-23: Add publish
+- 2024-10-24: Add emerald-500 theme
