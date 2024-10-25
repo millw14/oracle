@@ -408,3 +408,4 @@
 - 2024-10-24: Add generateViewport
 - 2024-10-25: Add exec
 - 2024-10-25: Fix return null
+- 2024-10-25: Add lint-staged
