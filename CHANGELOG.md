@@ -406,3 +406,4 @@
 - 2024-10-24: Add emerald-500 theme
 - 2024-10-24: Add shift
 - 2024-10-24: Add generateViewport
+- 2024-10-25: Add exec
