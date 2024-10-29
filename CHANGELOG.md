@@ -412,3 +412,4 @@
 - 2024-10-27: Implement real-time refresh
 - 2024-10-28: Fix lexical
 - 2024-10-29: Add keys
+- 2024-10-29: Implement trade button
