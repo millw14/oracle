@@ -415,3 +415,4 @@
 - 2024-10-29: Implement trade button
 - 2024-10-30: Add error
 - 2024-10-30: Add alias
+- 2024-10-30: Add fork
