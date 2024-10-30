@@ -413,3 +413,4 @@
 - 2024-10-28: Fix lexical
 - 2024-10-29: Add keys
 - 2024-10-29: Implement trade button
+- 2024-10-30: Add error
