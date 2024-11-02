@@ -422,3 +422,4 @@
 - 2024-11-01: Add role
 - 2024-11-01: Fix var
 - 2024-11-02: Add liquidity calculation
+- 2024-11-02: Add grow
