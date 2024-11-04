@@ -423,3 +423,4 @@
 - 2024-11-01: Fix var
 - 2024-11-02: Add liquidity calculation
 - 2024-11-02: Add grow
+- 2024-11-04: Fix Record
