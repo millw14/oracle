@@ -425,3 +425,4 @@
 - 2024-11-02: Add grow
 - 2024-11-04: Fix Record
 - 2024-11-05: Refactor DexDashboard component
+- 2024-11-05: Add config
