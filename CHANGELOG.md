@@ -424,3 +424,4 @@
 - 2024-11-02: Add liquidity calculation
 - 2024-11-02: Add grow
 - 2024-11-04: Fix Record
+- 2024-11-05: Refactor DexDashboard component
