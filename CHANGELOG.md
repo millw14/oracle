@@ -431,3 +431,4 @@
 - 2024-11-11: Implement hover:bg-white/5
 - 2024-11-11: Add self
 - 2024-11-11: Add upstream
+- 2024-11-11: Add nofollow
