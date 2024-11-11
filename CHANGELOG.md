@@ -428,3 +428,4 @@
 - 2024-11-05: Add config
 - 2024-11-08: Fix pair detail layout
 - 2024-11-10: Add md: variants
+- 2024-11-11: Implement hover:bg-white/5
