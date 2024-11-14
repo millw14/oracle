@@ -434,3 +434,4 @@
 - 2024-11-11: Add nofollow
 - 2024-11-12: Add chart placeholder
 - 2024-11-13: Add fill
+- 2024-11-14: Add CORS if needed
