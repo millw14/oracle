@@ -436,3 +436,4 @@
 - 2024-11-13: Add fill
 - 2024-11-14: Add CORS if needed
 - 2024-11-14: Implement map
+- 2024-11-15: Add MouseEvent
