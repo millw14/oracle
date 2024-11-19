@@ -440,3 +440,4 @@
 - 2024-11-16: Add nav landmark
 - 2024-11-17: Add padEnd
 - 2024-11-17: Add heap
+- 2024-11-19: Add choices
