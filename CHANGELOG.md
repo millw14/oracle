@@ -446,3 +446,4 @@
 - 2024-11-21: Add character
 - 2024-11-21: Add currentTarget
 - 2024-11-21: Add scope
+- 2024-11-21: Add rss
