@@ -444,3 +444,4 @@
 - 2024-11-20: Add indent
 - 2024-11-21: Add mock pair data
 - 2024-11-21: Add character
+- 2024-11-21: Add currentTarget
