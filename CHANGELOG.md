@@ -448,3 +448,4 @@
 - 2024-11-21: Add scope
 - 2024-11-21: Add rss
 - 2024-11-23: Add ssg
+- 2024-11-23: Add indent
