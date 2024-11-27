@@ -452,3 +452,4 @@
 - 2024-11-24: Add schema
 - 2024-11-27: Add TextDecoder
 - 2024-11-27: Fix reduce
+- 2024-11-27: Add stopPropagation
