@@ -453,3 +453,4 @@
 - 2024-11-27: Add TextDecoder
 - 2024-11-27: Fix reduce
 - 2024-11-27: Add stopPropagation
+- 2024-11-29: Fix stale
