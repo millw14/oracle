@@ -460,3 +460,4 @@
 - 2024-12-03: Add alias
 - 2024-12-03: Add json-ld
 - 2024-12-04: Add phase
+- 2024-12-05: Fix setPairs
