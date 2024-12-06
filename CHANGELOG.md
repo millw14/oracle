@@ -462,3 +462,4 @@
 - 2024-12-04: Add phase
 - 2024-12-05: Fix setPairs
 - 2024-12-06: Implement pair sorting
+- 2024-12-06: Add UIEvent
