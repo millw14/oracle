@@ -465,3 +465,4 @@
 - 2024-12-06: Add UIEvent
 - 2024-12-06: Implement Search icon
 - 2024-12-06: Add library
+- 2024-12-08: Add trailing %
