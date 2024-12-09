@@ -468,3 +468,4 @@
 - 2024-12-08: Add trailing %
 - 2024-12-09: Implement scrollbar-hide
 - 2024-12-09: Add bubble
+- 2024-12-09: Implement render
