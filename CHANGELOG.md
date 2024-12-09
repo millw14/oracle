@@ -469,3 +469,4 @@
 - 2024-12-09: Implement scrollbar-hide
 - 2024-12-09: Add bubble
 - 2024-12-09: Implement render
+- 2024-12-09: Fix narrowing
