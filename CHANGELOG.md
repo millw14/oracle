@@ -472,3 +472,4 @@
 - 2024-12-09: Fix narrowing
 - 2024-12-10: Add format
 - 2024-12-10: Implement hidden/block
+- 2024-12-11: Fix loading state
