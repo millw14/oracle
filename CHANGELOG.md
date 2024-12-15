@@ -473,3 +473,4 @@
 - 2024-12-10: Add format
 - 2024-12-10: Implement hidden/block
 - 2024-12-11: Fix loading state
+- 2024-12-15: Add heap
