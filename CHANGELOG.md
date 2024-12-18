@@ -475,3 +475,4 @@
 - 2024-12-11: Fix loading state
 - 2024-12-15: Add heap
 - 2024-12-16: Add drawer
+- 2024-12-18: Add optimize
