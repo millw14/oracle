@@ -479,3 +479,4 @@
 - 2024-12-18: Implement html5
 - 2024-12-18: Implement border-t
 - 2024-12-19: Add back to pairs link
+- 2024-12-20: Add getOwnPropertyDescriptor
