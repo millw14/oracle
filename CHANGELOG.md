@@ -481,3 +481,4 @@
 - 2024-12-19: Add back to pairs link
 - 2024-12-20: Add getOwnPropertyDescriptor
 - 2024-12-21: Add add
+- 2024-12-21: Add Pick
