@@ -482,3 +482,4 @@
 - 2024-12-20: Add getOwnPropertyDescriptor
 - 2024-12-21: Add add
 - 2024-12-21: Add Pick
+- 2024-12-21: Fix this
