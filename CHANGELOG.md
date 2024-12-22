@@ -486,3 +486,4 @@
 - 2024-12-21: Add origin
 - 2024-12-22: Fix mount
 - 2024-12-22: Add liquidity calculation
+- 2024-12-22: Add put
