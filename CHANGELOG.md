@@ -488,3 +488,4 @@
 - 2024-12-22: Add liquidity calculation
 - 2024-12-22: Add put
 - 2024-12-23: Add prettier
+- 2024-12-23: Add aside
