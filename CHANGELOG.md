@@ -491,3 +491,4 @@
 - 2024-12-23: Add aside
 - 2024-12-24: Add File
 - 2024-12-24: Add --foreground variable
+- 2024-12-25: Add sign
