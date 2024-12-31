@@ -497,3 +497,4 @@
 - 2024-12-27: Fix past
 - 2024-12-27: Add ReadableStream
 - 2024-12-31: Add hover states
+- 2024-12-31: Add useEffect deps
